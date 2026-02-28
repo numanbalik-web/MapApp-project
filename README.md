@@ -35,28 +35,28 @@ Bu proje ile birlikte frontend tarafında artık **HTML & CSS’in üzerine gü�
 ## 🖼️ Interface Screens
 
 ### 🗺️ Screen 1 – Harita Başlangıç Görünümü
-![Screen1](./screen/screen1)
+![Screen1](screen/screen1)
 
 Minimal ve odaklı ana harita yapısı.
 
 ---
 
 ### 📍 Screen 2 – Veri Noktaları
-![Screen2](./screen/screen2)
+![Screen2](screen/screen2)
 
 Harita üzerinde konum işaretleme ve veri gösterimi.
 
 ---
 
 ### 🌍 Screen 3 – Bölgesel Görünüm
-![Screen3](./screen/screen3)
+![Screen3](screen/screen3)
 
 Farklı bölgelerde dinamik veri akışı.
 
 ---
 
 ### 💻 Screen 4 – Kod & Konsol Etkileşimi
-![Screen4](./screen/screen4)
+![Screen4](screen/screen4)
 
 JavaScript tarafındaki çalışma mantığının yansıması.
 
