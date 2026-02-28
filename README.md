@@ -35,7 +35,7 @@ Bu proje ile birlikte frontend tarafında artık **HTML & CSS’in üzerine gü�
 ## 🖼️ Interface Screens
 
 ### 🗺️ Screen 1 – Harita Başlangıç Görünümü
-![Screen1](screen/screen1)
+![Screen1](screen/screen1.png)
 
 Minimal ve odaklı ana harita yapısı.
 
