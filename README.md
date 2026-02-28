@@ -42,21 +42,21 @@ Minimal ve odaklı ana harita yapısı.
 ---
 
 ### 📍 Screen 2 – Veri Noktaları
-![Screen2](screen/screen2)
+![Screen2](screen/screen2.png)
 
 Harita üzerinde konum işaretleme ve veri gösterimi.
 
 ---
 
 ### 🌍 Screen 3 – Bölgesel Görünüm
-![Screen3](screen/screen3)
+![Screen3](screen/screen3.png)
 
 Farklı bölgelerde dinamik veri akışı.
 
 ---
 
 ### 💻 Screen 4 – Kod & Konsol Etkileşimi
-![Screen4](screen/screen4)
+![Screen4](screen/screen4.png)
 
 JavaScript tarafındaki çalışma mantığının yansıması.
 
